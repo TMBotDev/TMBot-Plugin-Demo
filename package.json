@@ -1,5 +1,5 @@
 {
-    "name": "test",
+    "name": "Demo",
     "description": "TMBot测试插件",
     "version": "0",
     "main": "app.js"

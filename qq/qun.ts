@@ -1,4 +1,4 @@
-import { OneBotDocking } from "../../../modules/OneBotDocking";
+import { OneBotDocking } from "../../modules/OneBotDocking";
 import { logger } from "../app";
 
 function sleep(t: number) {

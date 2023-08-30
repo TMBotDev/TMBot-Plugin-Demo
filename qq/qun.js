@@ -15,3 +15,4 @@ async function Run(bot) {
     }
 }
 exports.Run = Run;
+//# sourceMappingURL=qun.js.map

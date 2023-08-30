@@ -10,3 +10,4 @@ function GuildInit(bot) {
     app_1.logger.info(bot.Name + " 共有" + gs.Guilds.size + "个频道");
 }
 exports.GuildInit = GuildInit;
+//# sourceMappingURL=guild.js.map

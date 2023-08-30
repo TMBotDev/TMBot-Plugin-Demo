@@ -1,8 +1,8 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.logger = void 0;
-const BotDockingMgr_1 = require("../modules/BotDockingMgr");
-const logger_1 = require("../tools/logger");
+const BotDockingMgr_1 = require("../../modules/BotDockingMgr");
+const logger_1 = require("../../tools/logger");
 const guild_1 = require("./qq/guild");
 const qun_1 = require("./qq/qun");
 exports.logger = new logger_1.Logger("Test");

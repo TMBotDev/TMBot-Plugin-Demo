@@ -1,5 +1,5 @@
-import { BotDockingMgr } from "../modules/BotDockingMgr";
-import { Logger } from "../tools/logger";
+import { BotDockingMgr } from "../../modules/BotDockingMgr";
+import { Logger } from "../../tools/logger";
 import { GuildInit } from "./qq/guild";
 import { Run } from "./qq/qun";
 
